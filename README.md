@@ -1,6 +1,8 @@
 # Muhammad Mohsin 
 
-Muhammad Mohsin is a Doctoral candidate at the University of Genova, Italy studying Computer Science. His dissertation research will focus on E-Waste Recycling, Urban Mining, and Circular Economy. He has expertise in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
+Muhammad Mohsin is a Ph.D. candidate at the University of Genova, Italy studying Computer Science. He received a B.Sc. degree in Computer Engineering from the University of Engineering and Technology (UET), Taxila, Pakistan, and an M.S. degree in Computer Engineering from the National University of Science and Technology (NUST), Islamabad, Pakistan in 2017 and 2021. He is actively involved in cutting-edge research and development in the fields of Medical Imaging, Circular Economy, Machine Learning, Deep Learning, Computer Vision, and Artificial Intelligence. His current research interests include Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence (AI), Urban Mines, E-Waste Recycling, and Circular Economy.
+
+Thank you for visiting my profile, and please feel free to reach out if you have any questions or ideas you'd like to share. I look forward to connecting with others who share my passion for computer science and technology. 
 
 ## Profile
 
@@ -11,8 +13,8 @@ Muhammad Mohsin is a Doctoral candidate at the University of Genova, Italy study
 Degree | University | Year
 ---------|----------|---------
  P.h.D Computer Science | University of Genova, Italy | 2025
- Masters of Sceince (MS) in Computer Engineering  | National University of Science and technology (NUST), Isalamabad Pakistan | 2021
- Bachelor of Sceince (BSc) in Computer Engineering | University of Engineering and Techonoly (UET), Taxila, Pakistan  | 2017
+ Masters of Science (MS) in Computer Engineering  | National University of Science and Technology (NUST), Islamabad Pakistan | 2021
+ Bachelor of Science (BSc) in Computer Engineering | University of Engineering and Technology (UET), Taxila, Pakistan  | 2017
 
 ## Publication
 
@@ -41,13 +43,13 @@ Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
 
 ## Thesis
 
-### Masters Thesis: Computer Engineering
+### Master Thesis: Computer Engineering
 
-**Title** : Automatic Prostate Cancer Grading using Deep Architectures [link](http://dx.doi.org/10.13140/RG.2.2.23256.88327)
+**Title**: Automatic Prostate Cancer Grading using Deep Architectures [link](http://dx.doi.org/10.13140/RG.2.2.23256.88327)
 
-### Bsc Final Year Project: Computer Engineering
+### BSc Final Year Project: Computer Engineering
 
-**Title** : Intelligent Monitoring Robot for Navigation and Assistance [link](http://dx.doi.org/10.13140/RG.2.2.24095.74401)
+**Title**: Intelligent Monitoring Robot for Navigation and Assistance [link](http://dx.doi.org/10.13140/RG.2.2.24095.74401)
 
 
 
