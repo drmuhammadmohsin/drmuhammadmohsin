@@ -6,7 +6,7 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 
 ## Profile
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Muhammad-Mohsin-51) | [Github](https://github.com/engineermohsin) | [Kaggal](https://www.kaggle.com/mmohsin123) | [Linkdin](https://www.linkedin.com/in/engineermohsiin/) | [UNIGE](https://rubrica.unige.it/personale/UEBPUl1r) | [Youtube](https://www.youtube.com/@emuhammadmohsin/featured) |
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Muhammad-Mohsin-51) | [Github](https://github.com/engineermohsin) | [Kaggle](https://www.kaggle.com/mmohsin123) | [Linkedin](https://www.linkedin.com/in/engineermohsiin/) | [UNIGE](https://rubrica.unige.it/personale/UEBPUl1r) | [Youtube](https://www.youtube.com/@emuhammadmohsin/featured) |
 
 ## Education
 
@@ -19,7 +19,7 @@ Degree | University | Year
 ## Publication
 
 1. Cabri A., Masulli F., Rovetta S., **Mohsin M.** [Recovering Critical Raw Materials from WEEE using Artificial Intelligence](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) Proceedings of the 21st International Conference on Modelling and 
-Applied Simulation MAS 2022  [Google Scholar]() | [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85143196267&origin=resultslist&sort=plf-f&src=s&sid=fca38f588a9cddf552dc92d125d14ca0&sot=b&sdt=b&s=TITLE-ABS-KEY%28Recovering+Critical+Raw+Materials+from+WEEE+using+Artificial+Intelligence%29&sl=88&sessionSearchId=fca38f588a9cddf552dc92d125d14ca0) |
+Applied Simulation MAS 2022 | [Google Scholar](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85143196267&origin=resultslist&sort=plf-f&src=s&sid=fca38f588a9cddf552dc92d125d14ca0&sot=b&sdt=b&s=TITLE-ABS-KEY%28Recovering+Critical+Raw+Materials+from+WEEE+using+Artificial+Intelligence%29&sl=88&sessionSearchId=fca38f588a9cddf552dc92d125d14ca0) |
 
 1. **Mohsin M.**, Shaukat A., Akram U., & Zarrar M. K. [Automatic Prostate Cancer Grading Using Deep Architectures](https://www.researchgate.net/publication/358115824_Automatic_Prostate_Cancer_Grading_Using_Deep_Architectures). In [2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE] | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:d1gkVwhDpl0C) | [IEEE Xplore](https://doi.org/10.1109/AICCSA53542.2021.9686869) |
 2. Zarrar, M. K., Hussain, F., Khan, **M. M.**, & Sheikh, R. (2019, December).[ Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution](https://www.researchgate.net/publication/339754465_Latest_Trends_in_Automatic_Glioma_Tumor_Segmentation_and_an_Improved_Convolutional_Neural_Network_based_Solution)  In 2019 
@@ -45,11 +45,11 @@ Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
 
 ### Master Thesis: Computer Engineering
 
-**Title**: Automatic Prostate Cancer Grading using Deep Architectures [link](http://dx.doi.org/10.13140/RG.2.2.23256.88327)
+* Automatic Prostate Cancer Grading using Deep Architectures [link](http://dx.doi.org/10.13140/RG.2.2.23256.88327)
 
 ### BSc Final Year Project: Computer Engineering
 
-**Title**: Intelligent Monitoring Robot for Navigation and Assistance [link](http://dx.doi.org/10.13140/RG.2.2.24095.74401)
+* Intelligent Monitoring Robot for Navigation and Assistance [link](http://dx.doi.org/10.13140/RG.2.2.24095.74401)
 
 
 
