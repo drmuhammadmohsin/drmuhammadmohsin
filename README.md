@@ -1,6 +1,6 @@
 # Muhammad Mohsin 
 
-Muhammad Mohsin is a Ph.D. candidate at the University of Genova, Italy studying Computer Science. He received a B.Sc. degree in Computer Engineering from the University of Engineering and Technology (UET), Taxila, Pakistan, and an M.S. degree in Computer Engineering from the National University of Science and Technology (NUST), Islamabad, Pakistan in 2017 and 2021. He is actively involved in cutting-edge research and development in the fields of Medical Imaging, Circular Economy, Machine Learning, Deep Learning, Computer Vision, and Artificial Intelligence. His current research interests include Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence (AI), Urban Mines, E-Waste Recycling, and Circular Economy.
+Muhammad Mohsin is a Ph.D. candidate at the University of Genova, Italy. He received his M.S. degree in Computer Engineering from the National University of Science and Technology (NUST), Islamabad, Pakistan in 2021. He is actively involved in cutting-edge research and development in the fields of Medical Imaging, Circular Economy, Machine Learning, Deep Learning, and Artificial Intelligence. His current research interests include Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence (AI), Urban Mines, E-Waste Recycling, and Circular Economy
 
 Thank you for visiting my profile, and please feel free to reach out if you have any questions or ideas you'd like to share. I look forward to connecting with others who share my passion for computer science and technology. 
 
