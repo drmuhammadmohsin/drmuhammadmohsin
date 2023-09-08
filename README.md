@@ -30,9 +30,9 @@ Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74)
 
 ## Seminars
 
-* Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [link](https://docs-dibris.github.io/seminars/)
+* Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [link](https://drive.google.com/file/d/1Cy6fgtEeKGi7zbG9p_N4s1_mopk8GUEk/view?usp=sharing)
 * Virtual Mines: A sustainable solution for
-electronic industry [link]()
+electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31z1TEGDoRqNEN/view?usp=sharing)
 
 ## Posters
 
