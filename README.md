@@ -13,6 +13,7 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 Degree | University | Year
 ---------|----------|---------
  P.h.D Computer Science | University of Genova, Italy | 2025
+ P.h.D Visiting Research Fellow | Tsinghua University, Beijing China | 2024
  Masters of Science (MS) in Computer Engineering  | National University of Science and Technology (NUST), Islamabad Pakistan | 2021
  Bachelor of Science (BSc) in Computer Engineering | University of Engineering and Technology (UET), Taxila, Pakistan  | 2017
 
@@ -33,13 +34,13 @@ Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74)
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [link](https://drive.google.com/file/d/1Cy6fgtEeKGi7zbG9p_N4s1_mopk8GUEk/view?usp=sharing)
 * Virtual Mines: A sustainable solution for
 electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31z1TEGDoRqNEN/view?usp=sharing)
-
+* Measuring the recyclability of waste electronic components in printed circuit boards [link](https://drive.google.com/file/d/1qlm2WzN-0X4nxvBWdQbEFL0QPtZ2oPo6/view)
 ## Posters
 
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [Link](http://dx.doi.org/10.13140/RG.2.2.27349.19687)  
-* V-PCB Dataset: Detection of Electronic
-Components in Waste from Electrical and
-Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
+* V-PCB Dataset: Detection of Electronic Components in Waste from Electrical and Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
+* Assessing Electronic Component Recyclability for Automated Waste PCB Disassembly and Sorting [link]
+
 
 ## Thesis
 
