@@ -42,16 +42,6 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 * Assessing Electronic Component Recyclability for Automated Waste PCB Disassembly and Sorting [link]
 
 
-## Thesis
-
-### Master Thesis: Computer Engineering
-
-* Automatic Prostate Cancer Grading using Deep Architectures [link](http://dx.doi.org/10.13140/RG.2.2.23256.88327)
-
-### BSc Final Year Project: Computer Engineering
-
-* Intelligent Monitoring Robot for Navigation and Assistance [link](http://dx.doi.org/10.13140/RG.2.2.24095.74401)
-
 
 
 
