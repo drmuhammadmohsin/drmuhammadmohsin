@@ -21,7 +21,7 @@ Degree | University | Year
 
 1.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. (In press)
    
-2.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. [Google Scholar] (https://doi.org/10.48550/arXiv.2406.16593)
+2.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. [Google Scholar](https://doi.org/10.48550/arXiv.2406.16593)
 
 3.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). [Google Scholar] (https://doi.org/10.53555/kuey.v30i4.1528)  
 
