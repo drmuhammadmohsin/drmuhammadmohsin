@@ -21,11 +21,11 @@ Degree | University | Year
 
 1.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. (In press)
    
-2.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. [Google Scholar](https://doi.org/10.48550/arXiv.2406.16593)
+2.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Google Scholar](https://doi.org/10.48550/arXiv.2406.16593)|
 
-3.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). [Google Scholar](https://kuey.net/index.php/kuey/article/view/1528)  
+3.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). | [Google Scholar](https://kuey.net/index.php/kuey/article/view/1528)|  
 
-4.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. [Google Scholar](https://doi.org/10.48550/arXiv.2406.17162)
+4.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. | [Google Scholar](https://doi.org/10.48550/arXiv.2406.17162)|
 
 5.	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Google Scholar](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85143196267&origin=resultslist&sort=plf-f&src=s&sid=fca38f588a9cddf552dc92d125d14ca0&sot=b&sdt=b&s=TITLE-ABS-KEY%28Recovering+Critical+Raw+Materials+from+WEEE+using+Artificial+Intelligence%29&sl=88&sessionSearchId=fca38f588a9cddf552dc92d125d14ca0)
 
