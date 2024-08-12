@@ -23,7 +23,7 @@ Degree | University | Year
    
 2.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. [Google Scholar](https://doi.org/10.48550/arXiv.2406.16593)
 
-3.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). [Google Scholar](https://doi.org/10.53555/kuey.v30i4.1528](https://kuey.net/index.php/kuey/article/view/1528)  
+3.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). [Google Scholar](https://kuey.net/index.php/kuey/article/view/1528)  
 
 4.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. [Google Scholar](https://doi.org/10.48550/arXiv.2406.17162)
 
