@@ -6,7 +6,8 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 
 ## Profile
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ)| [ResearchGate](https://www.researchgate.net/profile/Muhammad-Mohsin-51) | [Github](https://github.com/engineermohsin) | [Kaggle](https://www.kaggle.com/mmohsin123) | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/engineermohsiin/)| [UNIGE](https://rubrica.unige.it/personale/UEBPUl1r)|
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ)| [![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg)]
+(https://www.researchgate.net/profile/Muhammad-Mohsin-51)| [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/mmohsin123) | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/engineermohsiin/)| [UNIGE](https://rubrica.unige.it/personale/UEBPUl1r)|
 
 ## Education
 
