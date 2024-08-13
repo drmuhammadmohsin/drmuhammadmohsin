@@ -6,7 +6,7 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 
 ## Profile
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Muhammad-Mohsin-51) | [Github](https://github.com/engineermohsin) | [Kaggle](https://www.kaggle.com/mmohsin123) | [Linkedin](https://www.linkedin.com/in/engineermohsiin/) | [UNIGE](https://rubrica.unige.it/personale/UEBPUl1r)|
+[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/4/4f/Circle-icons-scholar.svg)](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ)| [ResearchGate](https://www.researchgate.net/profile/Muhammad-Mohsin-51) | [Github](https://github.com/engineermohsin) | [Kaggle](https://www.kaggle.com/mmohsin123) | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/engineermohsiin/)| [UNIGE](https://rubrica.unige.it/personale/UEBPUl1r)|
 
 ## Education
 
