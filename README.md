@@ -7,17 +7,17 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 ## Profile
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="125" height="45" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="125" height="40" alt="Google Scholar">
   </a> 
-  &nbsp;|&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Muhammad-Mohsin-51">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="100" height="45" alt="ResearchGate">
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.kaggle.com/mmohsin123">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100" height="45" alt="Kaggle">
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/engineermohsiin/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" height="45" alt="LinkedIn">
   </a>
