@@ -5,12 +5,20 @@ Muhammad Mohsin is a Ph.D. candidate at the University of Genova, Italy. He rece
 Thank you for visiting my profile, and please feel free to reach out if you have any questions or ideas you'd like to share. I look forward to connecting with others who share my passion for computer science and technology. 
 
 ## Profile
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ)| 
-[![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg)](https://www.researchgate.net/profile/Muhammad-Mohsin-51)|
-[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/mmohsin123)|
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/engineermohsiin/)|
-[UNIGE](https://rubrica.unige.it/personale/UEBPUl1r)|
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="100" height="30" alt="Google Scholar">
+  </a> 
+  <a href="https://www.researchgate.net/profile/Muhammad-Mohsin-51">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="100" height="30" alt="ResearchGate">
+  </a>
+  <a href="https://www.kaggle.com/mmohsin123">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100" height="30" alt="Kaggle">
+  </a>
+  <a href="https://www.linkedin.com/in/engineermohsiin/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" height="30" alt="LinkedIn">
+  </a>
+</p>
 
 ## Education
 
