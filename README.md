@@ -62,6 +62,42 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [Link](http://dx.doi.org/10.13140/RG.2.2.27349.19687)  
 * V-PCB Dataset: Detection of Electronic Components in Waste from Electrical and Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
 * Assessing Electronic Component Recyclability for Automated Waste PCB Disassembly and Sorting
+## Services 
+
+1. **Member DoCS-DIBRIS** 									                            
+*	Member organizing team of DoCS-DIBRIS responsible for organizing seminars and workshops for PhD students in University Genoa, Italy
+2. **Reviewer**
+* Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2024), April 14, 2024, to April 18, 2024 – Venice, Italy.
+* Reviewed conference paper for the Ninth International Conference on Optimization and Applications (ICOA 2023), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
+*	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2023), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
+*	Student Committee Member at the Eighth International Conference on Optimization and Applications (ICOA 2022), October 6, 2022, to October 7, 2022 – Sestri Levante, Italy.
+
+## Training and Certifications
+
+### Education & Professional Development #### University of Genova, Italy
+- Machine Learning: A Computational Intelligence Approach
+- Machine Learning Crash Course
+- Deep Learning: Hands-on Introduction 2022
+- High Performance Computing
+- Paper Writing
+- Effective Habits and Skills for Successful Young Researchers
+- Trustworthy Artificial Intelligence
+- Data Science Summer School (Hertie School Data Science Lab)
+
+#### Online Courses | Coursera
+- Introduction to Docker: The Basics
+- Linear Algebra for Machine Learning and Data Science
+- Data Visualization with Python
+- Docker for Absolute Beginners
+- AI for Everyone
+- Understanding Research Methods
+- Utilized LinkedIn for Career Search
+
+#### Continuing Professional Development Program | PEC
+- Entrepreneurship Development by Managing Technology Innovation in Water and Wastewater Treatment Projects
+- Self-Discovery with Talent Management: Achieving Excellence in Your Professional Career
+- Indigenous Entrepreneurship: Characteristics, Cases, and Stories
+
 
 
 
