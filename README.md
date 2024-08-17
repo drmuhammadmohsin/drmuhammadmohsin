@@ -64,9 +64,9 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 * Assessing Electronic Component Recyclability for Automated Waste PCB Disassembly and Sorting
 ## Services 
 
-1. **Member DoCS-DIBRIS** 									                            
+### Member DoCS-DIBRIS 									                            
 *	Member organizing team of DoCS-DIBRIS responsible for organizing seminars and workshops for PhD students in University Genoa, Italy
-2. **Reviewer**
+### Reviewer
 * Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2024), April 14, 2024, to April 18, 2024 – Venice, Italy.
 * Reviewed conference paper for the Ninth International Conference on Optimization and Applications (ICOA 2023), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
 *	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2023), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
@@ -74,7 +74,7 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 
 ## Training and Certifications
 
-### Education & Professional Development #### University of Genova, Italy
+### Summer Schools/Courses at University of Genova Italy 
 - Machine Learning: A Computational Intelligence Approach
 - Machine Learning Crash Course
 - Deep Learning: Hands-on Introduction 2022
@@ -93,7 +93,7 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 - Understanding Research Methods
 - Utilized LinkedIn for Career Search
 
-#### Continuing Professional Development Program | PEC
+#### Continuing Professional Development Program | Pakistan Engineering Council (CPED 3.5)
 - Entrepreneurship Development by Managing Technology Innovation in Water and Wastewater Treatment Projects
 - Self-Discovery with Talent Management: Achieving Excellence in Your Professional Career
 - Indigenous Entrepreneurship: Characteristics, Cases, and Stories
