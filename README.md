@@ -64,9 +64,11 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 * Assessing Electronic Component Recyclability for Automated Waste PCB Disassembly and Sorting
 ## Services 
 
-### Member DoCS-DIBRIS 									                            
+#### Member DoCS-DIBRIS 		
+
 *	Member organizing team of DoCS-DIBRIS responsible for organizing seminars and workshops for PhD students in University Genoa, Italy
-### Reviewer
+#### Reviewer
+
 * Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2024), April 14, 2024, to April 18, 2024 – Venice, Italy.
 * Reviewed conference paper for the Ninth International Conference on Optimization and Applications (ICOA 2023), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
 *	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2023), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
@@ -74,7 +76,7 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 
 ## Training and Certifications
 
-### Summer Schools/Courses at University of Genova Italy 
+#### Summer Schools/Courses at University of Genova Italy 
 - Machine Learning: A Computational Intelligence Approach
 - Machine Learning Crash Course
 - Deep Learning: Hands-on Introduction 2022
