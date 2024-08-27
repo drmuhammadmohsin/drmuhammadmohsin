@@ -7,19 +7,19 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 ## Profile
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ">
-    <img src="assets/googlescholar.png" width="125" height="40" alt="Google Scholar">
+    <img src="assets/googlescholar.png" width="100" height="70" alt="Google Scholar">
   </a> 
   &nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Muhammad-Mohsin-51">
-    <img src="assets/ResearchGate.png" width="100" height="45" alt="ResearchGate">
+    <img src="assets/ResearchGate.png" width="100" height="70" alt="ResearchGate">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/mmohsin123">
-    <img src="assets/kaggalp.png" width="100" height="45" alt="Kaggle">
+    <img src="assets/kaggalp.png" width="100" height="70" alt="Kaggle">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/engineermohsiin/">
-    <img src="assets/LinkedIn_logo.png" width="100" height="45" alt="LinkedIn">
+    <img src="assets/LinkedIn_logo.png" width="100" height="70" alt="LinkedIn">
   </a>
 </p>
 
