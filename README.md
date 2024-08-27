@@ -7,7 +7,7 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 ## Profile
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ">
-    <img src="assets/Google-Scholar.png" width="100" height="70" alt="Google Scholar">
+    <img src="assets/googlescholar1.png" width="100" height="70" alt="Google Scholar">
   </a> 
   &nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Muhammad-Mohsin-51">
