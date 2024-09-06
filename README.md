@@ -35,34 +35,36 @@ Degree | University | Year
  Bachelor of Science (BSc) in Computer Engineering | University of Engineering and Technology (UET), Taxila, Pakistan  | 2017
 
 ## Publication
+1.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. (In press)
 
-1.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. (In press)
+2.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. (In press)
    
-2.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Google Scholar](https://doi.org/10.48550/arXiv.2406.16593)|
+3.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Google Scholar](https://doi.org/10.48550/arXiv.2406.16593)|
 
-3.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). | [Google Scholar](https://kuey.net/index.php/kuey/article/view/1528)|  
+4.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). | [Google Scholar](https://kuey.net/index.php/kuey/article/view/1528)|  
 
-4.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. | [Google Scholar](https://doi.org/10.48550/arXiv.2406.17162)|
+5.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. | [Google Scholar](https://doi.org/10.48550/arXiv.2406.17162)|
 
-5.	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Google Scholar](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85143196267&origin=resultslist&sort=plf-f&src=s&sid=fca38f588a9cddf552dc92d125d14ca0&sot=b&sdt=b&s=TITLE-ABS-KEY%28Recovering+Critical+Raw+Materials+from+WEEE+using+Artificial+Intelligence%29&sl=88&sessionSearchId=fca38f588a9cddf552dc92d125d14ca0)
+6.	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Google Scholar](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85143196267&origin=resultslist&sort=plf-f&src=s&sid=fca38f588a9cddf552dc92d125d14ca0&sot=b&sdt=b&s=TITLE-ABS-KEY%28Recovering+Critical+Raw+Materials+from+WEEE+using+Artificial+Intelligence%29&sl=88&sessionSearchId=fca38f588a9cddf552dc92d125d14ca0)
 
-6. **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:d1gkVwhDpl0C) | [IEEE Xplore](https://doi.org/10.1109/AICCSA53542.2021.9686869) |
+7. **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:d1gkVwhDpl0C) | [IEEE Xplore](https://doi.org/10.1109/AICCSA53542.2021.9686869) |
 
-7. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u5HHmVD_uO8C)|[IEEE Xplore](https://doi.org/10.1109/MACS48846.2019.9024815)|
+8. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u5HHmVD_uO8C)|[IEEE Xplore](https://doi.org/10.1109/MACS48846.2019.9024815)|
 
-8. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Google Schoalr](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u-x6o8ySG0sC) | [IEEE Xplore](https://doi.org/10.1109/MACS48846.2019.9024815) |
+9. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Google Schoalr](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u-x6o8ySG0sC) | [IEEE Xplore](https://doi.org/10.1109/MACS48846.2019.9024815) |
 
 ## Seminars
 
-* Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [link](https://drive.google.com/file/d/1Cy6fgtEeKGi7zbG9p_N4s1_mopk8GUEk/view?usp=sharing)
-* Virtual Mines: A sustainable solution for
-electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31z1TEGDoRqNEN/view?usp=sharing)
-* Measuring the recyclability of waste electronic components in printed circuit boards [link](https://drive.google.com/file/d/1qlm2WzN-0X4nxvBWdQbEFL0QPtZ2oPo6/view)
+* Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence<a href= "assets/Seminar-2022.pdf"> [link] </a>
+* Virtual Mines: A sustainable solution for electronic industry <a href= "assets/Seminar-2023.pdf"> [link] </a>
+* Measuring the recyclability of waste electronic components in printed circuit boards <a href= "assets/Seminar-2024.pdf"> [link] </a>
+
+
 ## Posters
 
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [Link](http://dx.doi.org/10.13140/RG.2.2.27349.19687)  
 * V-PCB Dataset: Detection of Electronic Components in Waste from Electrical and Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
-* Assessing Electronic Component Recyclability for Automated Waste PCB Disassembly and Sorting
+* Assessing Recyclability for Automated Waste PCB Disassembly and SortingAssessing Recyclability for Selective Disassembly of Waste Printed Circuit Boards <a href= "assets/CSW2024.pdf"> [link] </a>
 ## Services 
 
 #### Member DoCS-DIBRIS 		
@@ -79,8 +81,8 @@ electronic industry [link](https://drive.google.com/file/d/1IU5cGgBYPjHF7PhCiO31
 
 #### Summer Schools/Courses at University of Genova Italy 
 - Machine Learning: A Computational Intelligence Approach
-- Machine Learning Crash Course
-- Deep Learning: Hands-on Introduction 2022
+- Machine Learning Crash Course by MaLGa Iniversity of Genova
+- Deep Learning: Hands-on Introduction by MaLGa Iniversity of Genova
 - High Performance Computing
 - Paper Writing
 - Effective Habits and Skills for Successful Young Researchers
