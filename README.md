@@ -69,25 +69,25 @@ Degree | University | Year
 
 #### Member DoCS-DIBRIS 		
 
-*	Member organizing team of DoCS-DIBRIS responsible for organizing seminars and workshops for PhD students in University Genoa, Italy
+*	Member organizing team of ([DoCS-DIBRIS])((https://docs-dibris.github.io/docs/people.html)) responsible for organizing seminars and workshops for PhD students in University Genoa, Italy.
 #### Reviewer
-*•	Reviewer at a NeurIPS 2024 Workshop on Algorithmic Fairness through the Lens of Metrics and Evaluation (AFME), De-cember 14, 2024 – Vancouver Convention Center, British Columbia, Canada.
-* Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2024), April 14, 2024, to April 18, 2024 – Venice, Italy.
-* Reviewed conference paper for the Ninth International Conference on Optimization and Applications (ICOA 2023), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
-*	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2023), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
-*	Student Committee Member at the Eighth International Conference on Optimization and Applications (ICOA 2022), October 6, 2022, to October 7, 2022 – Sestri Levante, Italy.
+*•	Reviewer at a NeurIPS 2024 Workshop on Algorithmic Fairness through the Lens of Metrics and Evaluation [(AFME)](https://www.afciworkshop.org/afme2024), De-cember 14, 2024 – Vancouver Convention Center, British Columbia, Canada.
+* Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices [(ACCSE 2024)][https://www.iaria.org/conferences2024/ACCSE24.html], April 14, 2024, to April 18, 2024 – Venice, Italy.
+* Reviewed conference paper for the Ninth International Conference on Optimization and Applications [(ICOA 2023)][https://ieeexplore.ieee.org/xpl/conhome/10308776/proceeding], October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
+*	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices [(ACCSE 2023)](https://www.iaria.org/conferences2023/ACCSE23.html), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
+*	Student Committee Member at the Eighth International Conference on Optimization and Applications [(ICOA 2022)](https://icoa2022.dibris.unige.it/), October 6, 2022, to October 7, 2022 – Sestri Levante, Italy.
 
 ## Training and Certifications
 
 #### Summer Schools/Courses at University of Genova Italy 
-- Machine Learning: A Computational Intelligence Approach
-- Machine Learning Crash Course by MaLGa Iniversity of Genova
-- Deep Learning: Hands-on Introduction by MaLGa Iniversity of Genova
-- High Performance Computing
-- Paper Writing
-- Effective Habits and Skills for Successful Young Researchers
-- Trustworthy Artificial Intelligence
-- Data Science Summer School (Hertie School Data Science Lab)
+- Machine Learning: A Computational Intelligence Approach [(MLCI 2022)](https://person.dibris.unige.it/masulli-francesco/didattica/ML-CI-PhD/MLCI-2022.html)
+- Machine Learning Crash Course [MLCC 2022](https://malga.unige.it/education/schools/mlcc2022/) by MaLGa Iniversity of Genova
+- Deep Learning: Hands-on Introduction by MaLGa Iniversity of Genova [(DL 2022) (https://malga.unige.it/education/schools/dl2022/)
+- High Performance Computing (HPC 2022)[https://corsi.unige.it/off.f/2022/ins/53405]
+- Paper Writing 
+- Effective Habits and Skills for Successful Young Researchers [(EHSSYR 2023)](https://csse.phd.unige.it/courses)
+- Trustworthy Artificial Intelligence [(TIA 2023)](https://corsi.unige.it/en/off.f/2023/ins/66571)
+- Data Science Summer School [(Hertie School Data Science Lab)](https://ds3.ai/)
 
 #### Online Courses | Coursera
 - Introduction to Docker: The Basics
