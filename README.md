@@ -35,7 +35,7 @@ Degree | University | Year
  Bachelor of Science (BSc) in Computer Engineering | University of Engineering and Technology (UET), Taxila, Pakistan  | 2017
 
 ## Publication
-1.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. (In press)
+1.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. | [Google Scholar](https://doi.org/10.48550/arXiv.2409.16496)|
 
 2.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. (In press)
    
@@ -71,7 +71,7 @@ Degree | University | Year
 
 *	Member organizing team of DoCS-DIBRIS responsible for organizing seminars and workshops for PhD students in University Genoa, Italy
 #### Reviewer
-
+*•	Reviewer at a NeurIPS 2024 Workshop on Algorithmic Fairness through the Lens of Metrics and Evaluation (AFME), De-cember 14, 2024 – Vancouver Convention Center, British Columbia, Canada.
 * Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2024), April 14, 2024, to April 18, 2024 – Venice, Italy.
 * Reviewed conference paper for the Ninth International Conference on Optimization and Applications (ICOA 2023), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
 *	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices (ACCSE 2023), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
