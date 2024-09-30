@@ -80,9 +80,10 @@ Degree | University | Year
 ## Training and Certifications
 
 #### Summer Schools/Courses at University of Genova Italy 
-- Machine Learning: A Computational Intelligence Approach ([MLCI 2022](https://person.dibris.unige.it/masulli-francesco/didattica/ML-CI-PhD/MLCI-2022.html))
-- Machine Learning Crash Course ([MLCC 2022](https://malga.unige.it/education/schools/mlcc2022/)) by MaLGa Iniversity of Genova
-- Deep Learning: Hands-on Introduction by MaLGa Iniversity of Genova ([DL 2022] (https://malga.unige.it/education/schools/dl2022/))
+- Machine Learning: A Computational Intelligence Approach ([MLCI 2022](https://person.dibris.unige.it/masulli-francesco/didattica/ML-CI-PhD/MLCI-2022.html)) 
+- Machine Learning Crash Course ([MLCC 2022](https://malga.unige.it/education/schools/mlcc2022/)) by MaLGa University of Genoa
+- Deep Learning: Hands-on Introduction ([DL 2022](https://malga.unige.it/education/schools/dl2022/)) by MaLGa, University of Genoa
+- Computer Vision Crash Course ([CVCC 2022](https://malga.unige.it/education/schools/cvcc2022/)) by MaLGa, University of Genoa
 - High Performance Computing ([HPC 2022](https://corsi.unige.it/off.f/2022/ins/53405))
 - Paper Writing 
 - Effective Habits and Skills for Successful Young Researchers ([EHSSYR 2023](https://csse.phd.unige.it/courses))
