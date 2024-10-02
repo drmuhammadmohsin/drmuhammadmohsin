@@ -102,7 +102,7 @@ Degree | University | Year
 #### Events 
 - World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France
 - The 19th International Conference on Waste Management and Technology ([ICWMT19](https://www.bcrc.cn/icwmt-eng/col/1642498667703/index.html)), Hangzhou, China.
-- The Italian Workshop on Neural Networks ((WIRN 2023)[https://www.siren-neural-net.it/wirn-2023/]), Vietri sul Mare, Italy
+- The Italian Workshop on Neural Networks ([WIRN 2023])(https://www.siren-neural-net.it/wirn-2023/)), Vietri sul Mare, Italy
 
 #### Continuing Professional Development Program | Pakistan Engineering Council (CPED 3.5)
 - Entrepreneurship Development by Managing Technology Innovation in Water and Wastewater Treatment Projects
