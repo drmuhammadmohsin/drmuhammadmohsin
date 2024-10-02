@@ -71,7 +71,7 @@ Degree | University | Year
 
 *	Member organizing team of ([DoCS-DIBRIS](https://docs-dibris.github.io/docs/people.html)) responsible for organizing seminars and workshops for PhD students in University Genoa, Italy.
 #### Reviewer
-*•	Reviewer at a NeurIPS 2024 Workshop on Algorithmic Fairness through the Lens of Metrics and Evaluation ([AFME](https://www.afciworkshop.org/afme2024)), De-cember 14, 2024 – Vancouver Convention Center, British Columbia, Canada.
+*	Reviewer at a NeurIPS 2024 Workshop on Algorithmic Fairness through the Lens of Metrics and Evaluation ([AFME](https://www.afciworkshop.org/afme2024)), De-cember 14, 2024 – Vancouver Convention Center, British Columbia, Canada.
 * Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices ([ACCSE 2024](https://www.iaria.org/conferences2024/ACCSE24.html)), April 14, 2024, to April 18, 2024 – Venice, Italy.
 * Reviewed conference paper for the Ninth International Conference on Optimization and Applications ([ICOA 2023](https://ieeexplore.ieee.org/xpl/conhome/10308776/proceeding)), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
 *	Program Committee Member at the Eighth International Conference on Advances in Computation, Communications and Ser-vices ([ACCSE 2023](https://www.iaria.org/conferences2023/ACCSE23.html)), June 26, 2023, to June 30, 2023 – Nice, Saint-Laurent-du-Var, France.
@@ -81,14 +81,15 @@ Degree | University | Year
 
 #### Summer Schools/Courses at University of Genova Italy 
 - Machine Learning: A Computational Intelligence Approach ([MLCI 2022](https://person.dibris.unige.it/masulli-francesco/didattica/ML-CI-PhD/MLCI-2022.html)) 
-- Machine Learning Crash Course ([MLCC 2022](https://malga.unige.it/education/schools/mlcc2022/)) by MaLGa University of Genoa
-- Deep Learning: Hands-on Introduction ([DL 2022](https://malga.unige.it/education/schools/dl2022/)) by MaLGa, University of Genoa
-- Computer Vision Crash Course ([CVCC 2022](https://malga.unige.it/education/schools/cvcc2022/)) by MaLGa, University of Genoa
+- Machine Learning Crash Course ([MLCC 2022](https://malga.unige.it/education/schools/mlcc2022/)) by MaLGa University of Genoa, Italy
+- Deep Learning: Hands-on Introduction ([DL 2022](https://malga.unige.it/education/schools/dl2022/)) by MaLGa, University of Genoa, Italy
+- Computer Vision Crash Course ([CVCC 2022](https://malga.unige.it/education/schools/cvcc2022/)) by MaLGa, University of Genoa, Italy
 - High Performance Computing ([HPC 2022](https://corsi.unige.it/off.f/2022/ins/53405))
 - Paper Writing 
 - Effective Habits and Skills for Successful Young Researchers ([EHSSYR 2023](https://csse.phd.unige.it/courses))
 - Trustworthy Artificial Intelligence ([TIA 2023](https://corsi.unige.it/en/off.f/2023/ins/66571))
-- Data Science Summer School by Hertie School Data Science Lab([DS3 2023](https://ds3.ai/))
+- Data Science Summer School ([DS3 2023](https://ds3.ai/)) by Hertie School Data Science Lab, Germany.
+- Signal Processing for Autonomous Systems by University of Genoa, Italy
 
 #### Online Courses | Coursera
 - Introduction to Docker: The Basics 
@@ -98,6 +99,10 @@ Degree | University | Year
 - AI for Everyone
 - Understanding Research Methods
 - Utilized LinkedIn for Career Search
+#### Events 
+- World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France
+- The 19th International Conference on Waste Management and Technology ([ICWMT19](https://www.bcrc.cn/icwmt-eng/col/1642498667703/index.html)), Hangzhou, China.
+- The Italian Workshop on Neural Networks ((WIRN 2023)[https://www.siren-neural-net.it/wirn-2023/]), Vietri sul Mare, Italy
 
 #### Continuing Professional Development Program | Pakistan Engineering Council (CPED 3.5)
 - Entrepreneurship Development by Managing Technology Innovation in Water and Wastewater Treatment Projects
