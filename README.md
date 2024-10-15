@@ -92,17 +92,17 @@ Degree | University | Year
 - Signal Processing for Autonomous Systems by University of Genoa, Italy
 
 #### Online Courses | Coursera
-- Introduction to Docker: The Basics 
-- Linear Algebra for Machine Learning and Data Science
-- Data Visualization with Python
-- Docker for Absolute Beginners
-- AI for Everyone
-- Understanding Research Methods
-- Utilized LinkedIn for Career Search
+- [Introduction to Docker: The Basics](https://www.coursera.org/account/accomplishments/verify/W6L52QYFBNN3) 
+- [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AQWS6PNNB8M9)
+- [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/BVHJB46YJLSA)
+- [Docker for Absolute Beginners](https://www.coursera.org/account/accomplishments/verify/GP8BGKNPEGPX)
+- [AI for Everyone](https://www.coursera.org/account/accomplishments/verify/JWL6REGRZFR3)
+- [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/3RKQ2WQR98AS)
+- [Utilized LinkedIn for Career Search](https://www.coursera.org/account/accomplishments/verify/5LKV9VM6LYW5)
 #### Events 
 - World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France
 - The 19th International Conference on Waste Management and Technology ([ICWMT19](https://www.bcrc.cn/icwmt-eng/col/1642498667703/index.html)), Hangzhou, China.
-- The Italian Workshop on Neural Networks ([WIRN 2023])(https://www.siren-neural-net.it/wirn-2023/)), Vietri sul Mare, Italy
+- The Italian Workshop on Neural Networks ([WIRN 2023](https://www.siren-neural-net.it/wirn-2023/)), Vietri sul Mare, Italy
 
 #### Continuing Professional Development Program | Pakistan Engineering Council (CPED 3.5)
 - Entrepreneurship Development by Managing Technology Innovation in Water and Wastewater Treatment Projects
