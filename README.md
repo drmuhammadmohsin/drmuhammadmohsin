@@ -100,7 +100,8 @@ Degree | University | Year
 - [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/3RKQ2WQR98AS)
 - [Utilized LinkedIn for Career Search](https://www.coursera.org/account/accomplishments/verify/5LKV9VM6LYW5)
 #### Events 
-- World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France
+-  ECOMONDO - The Green Technology Expo 2024 ([Ecomondo 2024](https://www.ecomondo.com/)), November 4-8, 2024, Rimini, Italy.
+-  World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France.
 - The 19th International Conference on Waste Management and Technology ([ICWMT19](https://www.bcrc.cn/icwmt-eng/col/1642498667703/index.html)), Hangzhou, China.
 - The Italian Workshop on Neural Networks ([WIRN 2023](https://www.siren-neural-net.it/wirn-2023/)), Vietri sul Mare, Italy
 
