@@ -30,7 +30,7 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 Degree | University | Year
 ---------|----------|---------
  P.h.D Computer Science | University of Genova, Italy | 2025
- P.h.D Visiting Research Fellow | Tsinghua University, Beijing China | 2024
+ Visiting Research Fellow | Tsinghua University, Beijing China | 2024
  Masters of Science (MS) in Computer Engineering  | National University of Science and Technology (NUST), Islamabad Pakistan | 2021
  Bachelor of Science (BSc) in Computer Engineering | University of Engineering and Technology (UET), Taxila, Pakistan  | 2017
 
