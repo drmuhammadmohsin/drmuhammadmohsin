@@ -56,22 +56,22 @@ Degree | University | Year
 
 8. **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:d1gkVwhDpl0C) | [IEEE Xplore](https://doi.org/10.1109/AICCSA53542.2021.9686869) |
 
-9. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u5HHmVD_uO8C)|[IEEE Xplore](https://doi.org/10.1109/MACS48846.2019.9024815)|
+9. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u5HHmVD_uO8C)|
 
-10. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u-x6o8ySG0sC) | [IEEE Xplore](https://doi.org/10.1109/MACS48846.2019.9024815) |
+10. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u-x6o8ySG0sC)|
 
 ## Seminars
 
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence<a href= "assets/Seminar-2022.pdf"> [Link] </a>
 * Virtual Mines: A sustainable solution for electronic industry <a href= "assets/Seminar-2023.pdf"> [link] </a>
 * Measuring the recyclability of waste electronic components in printed circuit boards <a href= "assets/Seminar-2024.pdf"> [Link] </a>
-* CINECA High-Performance Computing System: Leonardo <a href= "assets/CINECA-mohsin.pptx"> [Link to downlaod slides] </a>
+* CINECA High-Performance Computing System: Leonardo <a href= "assets/CINECA-mohsin.pptx"> [Slides] </a>
 
 ## Posters
 
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence [Link](http://dx.doi.org/10.13140/RG.2.2.27349.19687)  
-* V-PCB Dataset: Detection of Electronic Components in Waste from Electrical and Electronic Equipment [link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
-* Assessing Recyclability for Automated Waste PCB Disassembly and SortingAssessing Recyclability for Selective Disassembly of Waste Printed Circuit Boards <a href= "assets/CSW2024.pdf"> [link] </a>
+* V-PCB Dataset: Detection of Electronic Components in Waste from Electrical and Electronic Equipment [Link](http://dx.doi.org/10.13140/RG.2.2.20216.01284)
+* Assessing Recyclability for Automated Waste PCB Disassembly and SortingAssessing Recyclability for Selective Disassembly of Waste Printed Circuit Boards <a href= "assets/CSW2024.pdf"> [Link] </a>
 ## Services 
 
 #### Member DoCS-DIBRIS 		
