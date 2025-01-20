@@ -40,25 +40,25 @@ Degree | University | Year
 
 ## Publication
 
-1.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers (preprint)| [Link](https://www.preprints.org/manuscript/202501.0632/v1)|
+-	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers (preprint)| [Link](https://www.preprints.org/manuscript/202501.0632/v1)|
 
-2.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. | [Link](https://doi.org/10.48550/arXiv.2409.16496)|
+-	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. | [Link](https://doi.org/10.48550/arXiv.2409.16496)|
 
-3.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. ([Link](https://doi.org/10.1109/RTSI61910.2024.10761364))
+-	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. ([Link](https://doi.org/10.1109/RTSI61910.2024.10761364))
    
-4.	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Link](https://doi.org/10.48550/arXiv.2406.16593)|
+-	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Link](https://doi.org/10.48550/arXiv.2406.16593)|
 
-5.	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). | [Link](https://kuey.net/index.php/kuey/article/view/1528)|  
+-	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). | [Link](https://kuey.net/index.php/kuey/article/view/1528)|  
 
-6.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. | [Link](https://doi.org/10.48550/arXiv.2406.17162)|
+-	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. | [Link](https://doi.org/10.48550/arXiv.2406.17162)|
 
-7.	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Link](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | 
+-	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Link](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | 
 
-8. **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Link](https://ieeexplore.ieee.org/document/9686869) |
+- **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Link](https://ieeexplore.ieee.org/document/9686869) |
 
-9. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Link](https://ieeexplore.ieee.org/document/9024815)|
+- Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Link](https://ieeexplore.ieee.org/document/9024815)|
 
-10. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Link](https://ieeexplore.ieee.org/document/9146067)|
+- Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Link](https://ieeexplore.ieee.org/document/9146067)|
 
 ## Seminars
 
