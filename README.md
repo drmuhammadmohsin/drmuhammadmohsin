@@ -40,7 +40,7 @@ Degree | University | Year
 
 ## Publication
 
-1.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers. | [Link](https://www.preprints.org/manuscript/202501.0632/v1)|
+1.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers (preprint)| [Link](https://www.preprints.org/manuscript/202501.0632/v1)|
 
 2.	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. | [Link](https://doi.org/10.48550/arXiv.2409.16496)|
 
@@ -52,20 +52,20 @@ Degree | University | Year
 
 6.	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Alberto Cabri (2023). Virtual Mines – Component-level recycling of printed circuit boards using deep learning.  The Italian Workshop on Neural Networks (WIRN 2023), Vietri sul Mare (SA), Italy. | [Link](https://doi.org/10.48550/arXiv.2406.17162)|
 
-7.	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Link](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85143196267&origin=resultslist&sort=plf-f&src=s&sid=fca38f588a9cddf552dc92d125d14ca0&sot=b&sdt=b&s=TITLE-ABS-KEY%28Recovering+Critical+Raw+Materials+from+WEEE+using+Artificial+Intelligence%29&sl=88&sessionSearchId=fca38f588a9cddf552dc92d125d14ca0)
+7.	Alberto Cabri, Francesco Masulli, Stefano Rovetta, **Muhammad Mohsin** (2022). Recovering Critical Raw Materials from WEEE using Artificial Intelligence. The 21st International Conference on Modelling and Applied Simulation (MAS2022), Rome, Italy. | [Link](https://www.cal-tek.eu/proceedings/i3m/2022/mas/023/) | 
 
-8. **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:d1gkVwhDpl0C) | [IEEE Xplore](https://doi.org/10.1109/AICCSA53542.2021.9686869) |
+8. **Muhammad Mohsin**, Arslan Shaukat, Usman Akram, & Muhammad Kaab Zarrar (2021). Automatic Prostate Cancer Grading Using Deep Architectures. 2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA) (pp. 1-8). IEEE | [Link](https://ieeexplore.ieee.org/document/9686869) |
 
-9. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u5HHmVD_uO8C)|
+9. Muhammad Kaab Zarrar, Farhan Hussain, **Muhammad Mohsin**, & Rida Sheikh (2019). [Latest trends in automatic glioma tumor segmentation and an improved convolutional neural network-based solution. The 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics. (MACS) (pp. 1-9). IEEE. |[Link](https://ieeexplore.ieee.org/document/9024815)|
 
-10. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ht3LV2kAAAAJ&citation_for_view=Ht3LV2kAAAAJ:u-x6o8ySG0sC)|
+10. Arslan Shaukat, Ammar Younis, Usman Akram, **Muhammad Mohsin**, & Zartasha Mustansar (2019). Towards Automatic Recognition of Sounds Observed in Daily Living Activity. 2019 IEEE 18th International Conference on Cognitive Informatics & Cognitive Computing (ICCI* CC) (pp. 66-74). IEEE.| [Link](https://ieeexplore.ieee.org/document/9146067)|
 
 ## Seminars
 
 * Selective Disassembly of Electronic Components from WEEE using Artificial Intelligence<a href= "assets/Seminar-2022.pdf"> [Link] </a>
-* Virtual Mines: A sustainable solution for electronic industry <a href= "assets/Seminar-2023.pdf"> [link] </a>
+* Virtual Mines: A sustainable solution for electronic industry <a href= "assets/Seminar-2023.pdf"> [Link] </a>
 * Measuring the recyclability of waste electronic components in printed circuit boards <a href= "assets/Seminar-2024.pdf"> [Link] </a>
-* CINECA High-Performance Computing System: Leonardo <a href= "assets/CINECA-mohsin.pptx"> [Slides] </a>
+* CINECA High-Performance Computing System: Leonardo <a href= "assets/CINECA-mohsin.pdf"> [Slides] </a>
 
 ## Posters
 
@@ -77,7 +77,9 @@ Degree | University | Year
 #### Member DoCS-DIBRIS 		
 
 *	Member organizing team of ([DoCS-DIBRIS](https://docs-dibris.github.io/docs/people.html)) responsible for organizing seminars and workshops for PhD students in University Genoa, Italy.
+  
 #### Reviewer
+
 *	Reviewer at a NeurIPS 2024 Workshop on Algorithmic Fairness through the Lens of Metrics and Evaluation ([AFME](https://www.afciworkshop.org/afme2024)), De-cember 14, 2024 – Vancouver Convention Center, British Columbia, Canada.
 * Program Committee Member at the Ninth International Conference on Advances in Computation, Communications and Ser-vices ([ACCSE 2024](https://www.iaria.org/conferences2024/ACCSE24.html)), April 14, 2024, to April 18, 2024 – Venice, Italy.
 * Reviewed conference paper for the Ninth International Conference on Optimization and Applications ([ICOA 2023](https://ieeexplore.ieee.org/xpl/conhome/10308776/proceeding)), October 5, 2023, to October 6, 2023 – Abu Dhabi, UAE.  
@@ -87,6 +89,7 @@ Degree | University | Year
 ## Training and Certifications
 
 #### Summer Schools/Courses at University of Genova Italy 
+
 - Machine Learning: A Computational Intelligence Approach ([MLCI 2022](https://person.dibris.unige.it/masulli-francesco/didattica/ML-CI-PhD/MLCI-2022.html)) 
 - Machine Learning Crash Course ([MLCC 2022](https://malga.unige.it/education/schools/mlcc2022/)) by MaLGa University of Genoa, Italy
 - Deep Learning: Hands-on Introduction ([DL 2022](https://malga.unige.it/education/schools/dl2022/)) by MaLGa, University of Genoa, Italy
@@ -99,6 +102,7 @@ Degree | University | Year
 - Signal Processing for Autonomous Systems by University of Genoa, Italy
 
 #### Online Courses | Coursera
+
 - [Introduction to Docker: The Basics](https://www.coursera.org/account/accomplishments/verify/W6L52QYFBNN3) 
 - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AQWS6PNNB8M9)
 - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/BVHJB46YJLSA)
@@ -107,12 +111,14 @@ Degree | University | Year
 - [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/3RKQ2WQR98AS)
 - [Utilized LinkedIn for Career Search](https://www.coursera.org/account/accomplishments/verify/5LKV9VM6LYW5)
 #### Events 
+
 -  ECOMONDO - The Green Technology Expo 2024 ([Ecomondo 2024](https://www.ecomondo.com/)), November 4-8, 2024, Rimini, Italy.
 -  World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France.
 - The 19th International Conference on Waste Management and Technology ([ICWMT19](https://www.bcrc.cn/icwmt-eng/col/1642498667703/index.html)), Hangzhou, China.
 - The Italian Workshop on Neural Networks ([WIRN 2023](https://www.siren-neural-net.it/wirn-2023/)), Vietri sul Mare, Italy
 
 #### Continuing Professional Development Program | Pakistan Engineering Council (CPED 3.5)
+
 - Entrepreneurship Development by Managing Technology Innovation in Water and Wastewater Treatment Projects
 - Self-Discovery with Talent Management: Achieving Excellence in Your Professional Career
 - Indigenous Entrepreneurship: Characteristics, Cases, and Stories
