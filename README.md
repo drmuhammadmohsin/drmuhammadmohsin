@@ -6,20 +6,23 @@ Thank you for visiting my profile, and please feel free to reach out if you have
 
 ## Profile
 <p align="left">
+  <a href="https://rubrica.unige.it/personale/UEBPUl1r">
+    <strong>University of Genova</strong>
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ">
-    <img src="assets/googlescholar1.jpg" width="100" height="70" alt="Google Scholar">
-  </a> 
+    <strong>Google Scholar</strong>
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Muhammad-Mohsin-51">
-    <img src="assets/ResearchGate.png" width="100" height="70" alt="ResearchGate">
+    <strong>ResearchGate</strong>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/mmohsin123">
-    <img src="assets/kaggalp.png" width="100" height="70" alt="Kaggle">
+    <strong>Kaggle</strong>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/engineermohsiin/">
-    <img src="assets/LinkedIn_logo.png" width="100" height="70" alt="LinkedIn">
+    <strong>LinkedIn</strong>
   </a>
 </p>
 
