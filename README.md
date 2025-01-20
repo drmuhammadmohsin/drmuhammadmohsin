@@ -38,7 +38,7 @@ Degree | University | Year
  Masters of Science (MS) in Computer Engineering  | National University of Science and Technology (NUST), Islamabad Pakistan | 2021
  Bachelor of Science (BSc) in Computer Engineering | University of Engineering and Technology (UET), Taxila, Pakistan  | 2017
 
-## Publication
+## Publications
 
 -	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers (preprint)| [Link](https://www.preprints.org/manuscript/202501.0632/v1)|
 
