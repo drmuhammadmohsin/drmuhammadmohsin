@@ -9,6 +9,7 @@ Thank you for visiting my profile, and please feel free to reach out if you have
   <a href="https://rubrica.unige.it/personale/UEBPUl1r">
     <strong>University of Genova</strong>
   </a>
+   &nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?hl=en&user=Ht3LV2kAAAAJ">
     <strong>Google Scholar</strong>
   </a>
