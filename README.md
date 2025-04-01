@@ -40,13 +40,14 @@ Degree | University | Year
 
 ## Publications
 
--	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers (preprint)| [Link](https://www.preprints.org/manuscript/202501.0632/v1)|
+-	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2025). Automated Disassembly of Waste Printed Circuit Boards: The Role of Edge Computing and IoT. 2025 Computers | [Link](https://doi.org/10.3390/computers14020062)|
+-	Fatima Batool, **Muhammad Mohsin**, Belal Mahmoud Alwadi (2025). Green Innovation and Environmental Performance: The Moderating Roles of Governance and Policy. 2025 World | [Link](https://doi.org/10.3390/world6010029)|
 
--	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. | [Link](https://doi.org/10.48550/arXiv.2409.16496)|
+-	**Muhammad Mohsin**, Stefano Rovetta, Francesco Masulli, Alberto Cabri (2024). Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach. 2024 International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy. | [Link](https://doi.org/10.1007/978-3-031-84100-2_21)|
 
 -	**Muhammad Mohsin**, Francesco Masulli, Stefano Rovetta, Danilo Greco, Alberto Cabri (2024). Deep Learning-Powered Computer Vision System for Selective Disassembly of Waste Printed Circuit Boards. 2024 IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco. ([Link](https://doi.org/10.1109/RTSI61910.2024.10761364))
    
--	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Link](https://doi.org/10.48550/arXiv.2406.16593)|
+-	**Muhammad Mohsin**, Xianlai Zeng, Stefano Rovetta, Francesco Masulli (2024). Measuring the Recyclability of Electronic Components to Assist Automatic and Sorting Waste Printed Circuit Boards. The 19th International Conference on Solid Waste Management and Technology (ICWMT19), Hangzhou, China. | [Link](https://www.bcrc.cn/icwmt-eng/atm/7/20240814170641676.pdf)|
 
 -	Fatima Batool, **Muhammad Mohsin** (2024). Impact of Green Innovation on Business Sustainability of Firms and the Mediating Role of Green Intellectual Capital. Educational Administration: Theory and Practice 30(4). | [Link](https://kuey.net/index.php/kuey/article/view/1528)|  
 
@@ -113,6 +114,8 @@ Degree | University | Year
 #### Events 
 
 -  ECOMONDO - The Green Technology Expo 2024 ([Ecomondo 2024](https://www.ecomondo.com/)), November 4-8, 2024, Rimini, Italy.
+-  IEEE 8th Forum on Research and Technologies for Society and Industry (RTSI), at Politecnico di Milano – Polo Territoriale di Lecco.
+-  International Conference on Applications in Electronics Pervading Industry, Environment and Society (ApplePies), at Polytechnic University of Turin, Italy
 -  World Artificial Intelligence Cannes Festival ([WAICF 2023](https://www.worldaicannes.com/), February 9-11, 2024, Cannes, France.
 - The 19th International Conference on Waste Management and Technology ([ICWMT19](https://www.bcrc.cn/icwmt-eng/col/1642498667703/index.html)), Hangzhou, China.
 - The Italian Workshop on Neural Networks ([WIRN 2023](https://www.siren-neural-net.it/wirn-2023/)), Vietri sul Mare, Italy
