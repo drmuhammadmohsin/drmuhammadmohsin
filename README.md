@@ -1,6 +1,6 @@
 # Dr. Muhammad Mohsin
 
-**Postdoctoral Research Fellow
+**Postdoctoral Research Fellow**
 📍 University of Genoa, Italy
 
 Welcome to the repository for my personal academic portfolio! You can view the live website here:  
